@@ -4,15 +4,15 @@ var playerScore=0;
 var computerScore=0;
 
 var playerImages = [
-    '/images/rock.png',
-    '/images/paper.png',
-    '/images/scissors.png',
+    'rock.png',
+    'paper.png',
+      'scissors.png',
 ];
 
 var computerImages = [
-    '/images/rock.png',
-    '/images/paper.png',
-    '/images/scissors.png',
+    'rock.png',
+    'paper.png',
+    'scissors.png',
 ];
 
 var getPlayer = document.getElementById("player");
